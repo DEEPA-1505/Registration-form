@@ -26,6 +26,6 @@ Fill in the required details.
 
 Submit the form to see validation in action.
 
-view this link:[]
+view this link:[https://deepa-1505.github.io/Registration-form/]
 
 thank you.
